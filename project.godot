@@ -11,7 +11,13 @@ config_version=5
 [application]
 
 config/name="RPG_GAME"
+run/main_scene="uid://08swslcei0x6"
 config/features=PackedStringArray("4.4", "GL Compatibility")
+
+[display]
+
+window/size/viewport_width=700
+window/size/viewport_height=600
 
 [file_customization]
 
@@ -22,5 +28,6 @@ folder_colors={
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"

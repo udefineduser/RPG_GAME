@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://08swslcei0x6"]
+
+[ext_resource type="PackedScene" uid="uid://ikwtmi7kqd5u" path="res://escenas/player.tscn" id="1_ubi47"]
+[ext_resource type="PackedScene" uid="uid://dkqyuf3ou5dhm" path="res://escenas/orco.tscn" id="2_xywc0"]
+
+[node name="Mundo" type="Node2D"]
+position = Vector2(-6, 0)
+
+[node name="CharacterBody2D" parent="." instance=ExtResource("1_ubi47")]
+position = Vector2(408, 254)
+
+[node name="Orco" parent="." instance=ExtResource("2_xywc0")]
+position = Vector2(336, 210)

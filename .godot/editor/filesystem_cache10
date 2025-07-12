@@ -1,9 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1752261701
-Mundo.tscn::PackedScene::1823978712680197777::1752222338::0::1::::<><><>0<>0<><>::uid://ikwtmi7kqd5u::::res://escenas/player.tscn<>uid://dkqyuf3ou5dhm::::res://escenas/orco.tscn
+::res://::1752267160
+Mundo.tscn::PackedScene::1823978712680197777::1752267160::0::1::::<><><>0<>0<><>::uid://ikwtmi7kqd5u::::res://escenas/player.tscn<>uid://dkqyuf3ou5dhm::::res://escenas/orco.tscn
 README.md::TextFile/TextFile::-1::1752205871::0::1::::<><><>0<>0<><>::
-::res://assets/::1752206779
-::res://assets/sprites/::1752206727
+::res://assets/::1752283085
+::res://assets/sprites/::1752283547
 ::res://assets/sprites/enemigos/::1752208434
 ::res://assets/sprites/enemigos/orco/::1752203064
 ::res://assets/sprites/enemigos/orco/Orc1/::1752203063
@@ -268,20 +268,39 @@ Unarmed_Walk1_shadow.png::CompressedTexture2D/CompressedTexture2D::4788056636841
 Unarmed_Walk2_body.png::CompressedTexture2D/CompressedTexture2D::4926368337430899851::1752203067::1752211704::1::::<><><>0<>0<>34e8d02895d0f9448453e7712f0bbf4c<>res://.godot/imported/Unarmed_Walk2_body.png-c3732e361aa178f0f54cceb2e11429e6.ctex::
 Unarmed_Walk3_head.png::CompressedTexture2D/CompressedTexture2D::2144723426884638797::1752203067::1752211704::1::::<><><>0<>0<>f577e2c81be62779c5cf35cd9e218a4c<>res://.godot/imported/Unarmed_Walk3_head.png-c23fe742c754ded6fe31d67236223b55.ctex::
 Unarmed_Walk_full.png::CompressedTexture2D/CompressedTexture2D::5159006877995538291::1752203067::1752211703::1::::<><><>0<>0<>c8ec2988cc307163548cd7e569266c21<>res://.godot/imported/Unarmed_Walk_full.png-f986aa576b3901b276de3f8cfd5bbca1.ctex::
-::res://assets/tilesets/::1752206752
+::res://assets/tilesets/::1752283547
+::res://assets/tilesets/exteriores/::1752283524
+::res://assets/tilesets/exteriores/Pixel Lands Desert Demo/::1752283524
+::res://assets/tilesets/exteriores/Pixel Lands Desert Demo/Pixel Lands Desert Demo/::1752283524
+desert_demo_objects.png::CompressedTexture2D::2775038466733942805::1733266192::1752283623::1::::<><><>0<>0<>fbe801e8ebd5e017d65f61c165b767f1<>res://.godot/imported/desert_demo_objects.png-a636884f8c0351e2ceafc3208f4a265d.ctex::
+desert_demo_terrain.png::CompressedTexture2D::806903928303121628::1733265953::1752283624::1::::<><><>0<>0<>3cc294e4832abb1ab66ca8557b7782e9<>res://.godot/imported/desert_demo_terrain.png-72b4370c9b90cc62ccf6bd1acf61ce70.ctex::
+INFO.txt::TextFile::-1::1733265196::0::1::::<><><>0<>0<><>::
+::res://assets/tilesets/exteriores/Pixel Lands Forest Demo/::1752283524
+::res://assets/tilesets/exteriores/Pixel Lands Forest Demo/Pixel Lands Forest Demo/::1752283524
+forest_demo_objects.png::CompressedTexture2D::5706604858505598690::1694465556::1752283624::1::::<><><>0<>0<>61c1e984105457ab06ff76b199064dec<>res://.godot/imported/forest_demo_objects.png-7a11141a0a40e636ff0dfcf6fbcb0212.ctex::
+forest_demo_terrain.png::CompressedTexture2D::4039955830375594831::1694465283::1752283624::1::::<><><>0<>0<>171daab040c44f50cf7793f4b6a36c48<>res://.godot/imported/forest_demo_terrain.png-2fa421de95a1b0329a13283405befde6.ctex::
+::res://assets/tilesets/exteriores/Pixel Lands Village Demo/::1752283524
+::res://assets/tilesets/exteriores/Pixel Lands Village Demo/Pixel Lands Village Demo/::1752283524
+ground_demo.png::CompressedTexture2D::8878823587804263744::1707080602::1752283624::1::::<><><>0<>0<>2a54eb1b8b372f487a95539f832fcc99<>res://.godot/imported/ground_demo.png-3351749d49e61da16b3d52b6050792a8.ctex::
+INFO.txt::TextFile::-1::1707141376::0::1::::<><><>0<>0<><>::
+objects_demo.png::CompressedTexture2D::5677981268174481203::1707083467::1752283624::1::::<><><>0<>0<>f915a2e6aad05e05c20931f35df2c094<>res://.godot/imported/objects_demo.png-9a1739bd2f17f498f29bcdbb74ec40f9.ctex::
+premade_buildings_demo.png::CompressedTexture2D::7871710537190572170::1707083342::1752283625::1::::<><><>0<>0<>231e6d5ffd37c5703f4e2b900bb89ae2<>res://.godot/imported/premade_buildings_demo.png-3740bf9792d3e196f274ba2f86fa0384.ctex::
+walls_roofs_doors_demo.png::CompressedTexture2D::7220698215742330643::1707080844::1752283625::1::::<><><>0<>0<>9e5820024fe9485bf4ac86979b605383<>res://.godot/imported/walls_roofs_doors_demo.png-6229e7cab9e092b11da5d93d72441404.ctex::
+::res://assets/tilesets/interiores/::1752283615
+atlas_48x.png::CompressedTexture2D::3647188246881802063::1614798280::1752283625::1::::<><><>0<>0<>6eb32da49eaf8c1003d4f43f3a0172f9<>res://.godot/imported/atlas_48x.png-3ce8414ffd5e291cf890154fcec4ecc2.ctex::
 ::res://assets/ui/::1752206770
 ::res://audio/::1752206887
 ::res://audio/fx/::1752206887
 ::res://audio/musica/::1752206882
 ::res://data/::1752206906
-::res://escenas/::1752222480
-orco.tscn::PackedScene::7895673761764356342::1752222336::0::1::::<><><>0<>0<><>::uid://u36bd8eu22v5::::res://assets/sprites/enemigos/orco/Orc1/Orc1_attack/orc1_attack_full.png<>uid://bswqfypwebn6d::::res://scripts/enemigos/orco.gd<>uid://cfxycsjb7ul52::::res://assets/sprites/enemigos/orco/Orc1/Orc1_idle/orc1_idle_full.png<>uid://cxis2eafvbuwg::::res://assets/sprites/enemigos/orco/Orc1/Orc1_run/orc1_run_full.png
-player.tscn::PackedScene::583524874676479420::1752222480::0::1::::<><><>0<>0<><>::uid://bjqf1ciowniu3::::res://scripts/personajes/player.gd<>uid://bd0obqm26gwqs::::res://assets/sprites/personajes/personaje_chingo/Unarmed_Idle/Unarmed_Idle_full.png<>uid://cfrcdbrj4fn8f::::res://assets/sprites/personajes/personaje_chingo/Unarmed_Walk/Unarmed_Walk_full.png
+::res://escenas/::1752267160
+orco.tscn::PackedScene::7895673761764356342::1752267160::0::1::::<><><>0<>0<><>::uid://u36bd8eu22v5::::res://assets/sprites/enemigos/orco/Orc1/Orc1_attack/orc1_attack_full.png<>uid://bswqfypwebn6d::::res://scripts/enemigos/orco.gd<>uid://cfxycsjb7ul52::::res://assets/sprites/enemigos/orco/Orc1/Orc1_idle/orc1_idle_full.png<>uid://cxis2eafvbuwg::::res://assets/sprites/enemigos/orco/Orc1/Orc1_run/orc1_run_full.png
+player.tscn::PackedScene::583524874676479420::1752267160::0::1::::<><><>0<>0<><>::uid://bjqf1ciowniu3::::res://scripts/personajes/player.gd<>uid://bd0obqm26gwqs::::res://assets/sprites/personajes/personaje_chingo/Unarmed_Idle/Unarmed_Idle_full.png<>uid://cfrcdbrj4fn8f::::res://assets/sprites/personajes/personaje_chingo/Unarmed_Walk/Unarmed_Walk_full.png
 ::res://escenas/interfaz/::1752206816
 ::res://escenas/mapas/::1752206797
 ::res://scripts/::1752206862
-::res://scripts/enemigos/::1752222467
-orco.gd::GDScript::3696217865358236701::1752222467::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://scripts/enemigos/::1752266661
+orco.gd::GDScript::3696217865358236701::1752266661::0::1::::<>CharacterBody2D<><>0<>0<><>::
 ::res://scripts/personajes/::1752217176
 player.gd::GDScript::3051500454176860396::1752217176::0::1::::<>CharacterBody2D<><>0<>0<><>::
 ::res://scripts/sistemas/::1752206855

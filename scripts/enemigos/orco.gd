@@ -4,7 +4,7 @@ extends CharacterBody2D
 @export var rango_deteccion := 100.0
 @export var fuerza_repulsion := 80.0 
 
-@onready var anim := $AnimatedSprite2D
+@onready var anim: AnimatedSprite2D = $AnimatedSprite2D
 @onready var radar := $Radar
 @onready var colisionador := $CollisionShape2D 
 
@@ -46,4 +46,5 @@ func _on_radar_body_exited(body: Node2D):
 	if body == jugador:
 		persiguiendo = false
 		jugador = null
+		anim.play("idle_abajo")
 		velocity = Vector2.ZERO

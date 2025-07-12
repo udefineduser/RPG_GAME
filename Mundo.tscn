@@ -10,4 +10,4 @@ position = Vector2(-6, 0)
 position = Vector2(408, 254)
 
 [node name="Orco" parent="." instance=ExtResource("2_xywc0")]
-position = Vector2(336, 210)
+position = Vector2(290, 155)

@@ -16,6 +16,7 @@ func _ready():
 	radar.body_exited.connect(_on_radar_body_exited)
 
 func _physics_process(delta):
+	$AnimatedSprite2D.z_index = int(global_position.y)
 	if persiguiendo and jugador:
 		var direccion = (jugador.position - position).normalized()
 		

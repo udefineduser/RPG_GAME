@@ -4,6 +4,7 @@ extends CharacterBody2D
 @onready var animated = $AnimatedSprite2D
 
 func _physics_process(delta):
+	$AnimatedSprite2D.z_index = int(global_position.y)
 	move_player()
 	move_and_slide()
 
@@ -13,16 +14,14 @@ func move_player():
 	
 	if input_y < 0:
 		animated.play("walk_up")
-	if input_y > 0:
+	elif input_y > 0:
 		animated.play("walk_down")
-		
-	if input_x < 0:
+	elif input_x < 0:
 		animated.play("walk_left")
-	if input_x > 0:
+	elif input_x > 0:
 		animated.play("walk_right")
-	
-	if input_x == 0 and input_y == 0:
+	else:
 		animated.play("idle")
 	
-	velocity.y = input_y * speed
 	velocity.x = input_x * speed
+	velocity.y = input_y * speed

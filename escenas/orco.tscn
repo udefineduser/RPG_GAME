@@ -635,7 +635,6 @@ size = Vector2(13, 8.25)
 radius = 45.1774
 
 [node name="Orco" type="CharacterBody2D"]
-scale = Vector2(2, 2)
 script = ExtResource("1_ri8i2")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]

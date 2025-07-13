@@ -1,6 +1,4 @@
+res://escenas/mapas/habitacion-inicio.tscn
 res://escenas/orco.tscn
 res://escenas/player.tscn
 res://Mundo.tscn
-res://scripts/enemigos/orco.gd
-res://escenas/mapas/habitacion-inicio.tscn
-res://scripts/personajes/player.gd

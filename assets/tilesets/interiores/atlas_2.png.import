@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://br7ywme7e6pvr"
-path="res://.godot/imported/atlas_48x.png-3ce8414ffd5e291cf890154fcec4ecc2.ctex"
+uid="uid://djepn36y2dh2d"
+path="res://.godot/imported/atlas_2.png-b9f65adc16e0abb41533347be32f0a9b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tilesets/interiores/atlas_48x.png"
-dest_files=["res://.godot/imported/atlas_48x.png-3ce8414ffd5e291cf890154fcec4ecc2.ctex"]
+source_file="res://assets/tilesets/interiores/atlas_2.png"
+dest_files=["res://.godot/imported/atlas_2.png-b9f65adc16e0abb41533347be32f0a9b.ctex"]
 
 [params]
 

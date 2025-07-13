@@ -1,5 +1,6 @@
-CollisionShape2D
+TileMapLayer
 TileMap
+CollisionShape2D
 Area2D
 AnimatedSprite2D
 CharacterBody2D

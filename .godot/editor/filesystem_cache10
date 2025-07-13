@@ -1,9 +1,10 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1752267160
-Mundo.tscn::PackedScene::1823978712680197777::1752267160::0::1::::<><><>0<>0<><>::uid://ikwtmi7kqd5u::::res://escenas/player.tscn<>uid://dkqyuf3ou5dhm::::res://escenas/orco.tscn
+::res://::1752356442
+Mundo.tscn::PackedScene::1823978712680197777::1752356442::0::1::::<><><>0<>0<><>::uid://ikwtmi7kqd5u::::res://escenas/player.tscn<>uid://dkqyuf3ou5dhm::::res://escenas/orco.tscn
 README.md::TextFile/TextFile::-1::1752205871::0::1::::<><><>0<>0<><>::
 ::res://assets/::1752283085
-::res://assets/sprites/::1752283547
+::res://assets/sprites/::1752358856
+dsad.png::CompressedTexture2D::9207705425066659491::1752358781::1752358861::0::::<><><>0<>0<>1b3c2e128e351b29e955296b0018a8e1<>::
 ::res://assets/sprites/enemigos/::1752208434
 ::res://assets/sprites/enemigos/orco/::1752203064
 ::res://assets/sprites/enemigos/orco/Orc1/::1752203063
@@ -272,37 +273,38 @@ Unarmed_Walk_full.png::CompressedTexture2D/CompressedTexture2D::5159006877995538
 ::res://assets/tilesets/exteriores/::1752283524
 ::res://assets/tilesets/exteriores/Pixel Lands Desert Demo/::1752283524
 ::res://assets/tilesets/exteriores/Pixel Lands Desert Demo/Pixel Lands Desert Demo/::1752283624
-desert_demo_objects.png::CompressedTexture2D::2775038466733942805::1733266192::1752283623::1::::<><><>0<>0<>fbe801e8ebd5e017d65f61c165b767f1<>res://.godot/imported/desert_demo_objects.png-a636884f8c0351e2ceafc3208f4a265d.ctex::
-desert_demo_terrain.png::CompressedTexture2D::806903928303121628::1733265953::1752283624::1::::<><><>0<>0<>3cc294e4832abb1ab66ca8557b7782e9<>res://.godot/imported/desert_demo_terrain.png-72b4370c9b90cc62ccf6bd1acf61ce70.ctex::
-INFO.txt::TextFile::-1::1733265196::0::1::::<><><>0<>0<><>::
+desert_demo_objects.png::CompressedTexture2D/CompressedTexture2D::2775038466733942805::1733266192::1752283623::1::::<><><>0<>0<>fbe801e8ebd5e017d65f61c165b767f1<>res://.godot/imported/desert_demo_objects.png-a636884f8c0351e2ceafc3208f4a265d.ctex::
+desert_demo_terrain.png::CompressedTexture2D/CompressedTexture2D::806903928303121628::1733265953::1752283624::1::::<><><>0<>0<>3cc294e4832abb1ab66ca8557b7782e9<>res://.godot/imported/desert_demo_terrain.png-72b4370c9b90cc62ccf6bd1acf61ce70.ctex::
+INFO.txt::TextFile/TextFile::-1::1733265196::0::1::::<><><>0<>0<><>::
 ::res://assets/tilesets/exteriores/Pixel Lands Forest Demo/::1752283524
 ::res://assets/tilesets/exteriores/Pixel Lands Forest Demo/Pixel Lands Forest Demo/::1752283624
-forest_demo_objects.png::CompressedTexture2D::5706604858505598690::1694465556::1752283624::1::::<><><>0<>0<>61c1e984105457ab06ff76b199064dec<>res://.godot/imported/forest_demo_objects.png-7a11141a0a40e636ff0dfcf6fbcb0212.ctex::
-forest_demo_terrain.png::CompressedTexture2D::4039955830375594831::1694465283::1752283624::1::::<><><>0<>0<>171daab040c44f50cf7793f4b6a36c48<>res://.godot/imported/forest_demo_terrain.png-2fa421de95a1b0329a13283405befde6.ctex::
+forest_demo_objects.png::CompressedTexture2D/CompressedTexture2D::5706604858505598690::1694465556::1752283624::1::::<><><>0<>0<>61c1e984105457ab06ff76b199064dec<>res://.godot/imported/forest_demo_objects.png-7a11141a0a40e636ff0dfcf6fbcb0212.ctex::
+forest_demo_terrain.png::CompressedTexture2D/CompressedTexture2D::4039955830375594831::1694465283::1752283624::1::::<><><>0<>0<>171daab040c44f50cf7793f4b6a36c48<>res://.godot/imported/forest_demo_terrain.png-2fa421de95a1b0329a13283405befde6.ctex::
 ::res://assets/tilesets/exteriores/Pixel Lands Village Demo/::1752283524
 ::res://assets/tilesets/exteriores/Pixel Lands Village Demo/Pixel Lands Village Demo/::1752283625
-ground_demo.png::CompressedTexture2D::8878823587804263744::1707080602::1752283624::1::::<><><>0<>0<>2a54eb1b8b372f487a95539f832fcc99<>res://.godot/imported/ground_demo.png-3351749d49e61da16b3d52b6050792a8.ctex::
-INFO.txt::TextFile::-1::1707141376::0::1::::<><><>0<>0<><>::
-objects_demo.png::CompressedTexture2D::5677981268174481203::1707083467::1752283624::1::::<><><>0<>0<>f915a2e6aad05e05c20931f35df2c094<>res://.godot/imported/objects_demo.png-9a1739bd2f17f498f29bcdbb74ec40f9.ctex::
-premade_buildings_demo.png::CompressedTexture2D::7871710537190572170::1707083342::1752283625::1::::<><><>0<>0<>231e6d5ffd37c5703f4e2b900bb89ae2<>res://.godot/imported/premade_buildings_demo.png-3740bf9792d3e196f274ba2f86fa0384.ctex::
-walls_roofs_doors_demo.png::CompressedTexture2D::7220698215742330643::1707080844::1752283625::1::::<><><>0<>0<>9e5820024fe9485bf4ac86979b605383<>res://.godot/imported/walls_roofs_doors_demo.png-6229e7cab9e092b11da5d93d72441404.ctex::
-::res://assets/tilesets/interiores/::1752283625
-atlas_48x.png::CompressedTexture2D::3647188246881802063::1614798280::1752284589::1::::<><><>0<>0<>6eb32da49eaf8c1003d4f43f3a0172f9<>res://.godot/imported/atlas_48x.png-3ce8414ffd5e291cf890154fcec4ecc2.ctex::
+ground_demo.png::CompressedTexture2D/CompressedTexture2D::8878823587804263744::1707080602::1752283624::1::::<><><>0<>0<>2a54eb1b8b372f487a95539f832fcc99<>res://.godot/imported/ground_demo.png-3351749d49e61da16b3d52b6050792a8.ctex::
+INFO.txt::TextFile/TextFile::-1::1707141376::0::1::::<><><>0<>0<><>::
+objects_demo.png::CompressedTexture2D/CompressedTexture2D::5677981268174481203::1707083467::1752283624::1::::<><><>0<>0<>f915a2e6aad05e05c20931f35df2c094<>res://.godot/imported/objects_demo.png-9a1739bd2f17f498f29bcdbb74ec40f9.ctex::
+premade_buildings_demo.png::CompressedTexture2D/CompressedTexture2D::7871710537190572170::1707083342::1752283625::1::::<><><>0<>0<>231e6d5ffd37c5703f4e2b900bb89ae2<>res://.godot/imported/premade_buildings_demo.png-3740bf9792d3e196f274ba2f86fa0384.ctex::
+walls_roofs_doors_demo.png::CompressedTexture2D/CompressedTexture2D::7220698215742330643::1707080844::1752283625::1::::<><><>0<>0<>9e5820024fe9485bf4ac86979b605383<>res://.godot/imported/walls_roofs_doors_demo.png-6229e7cab9e092b11da5d93d72441404.ctex::
+::res://assets/tilesets/interiores/::1752354304
+atlas_1.png::CompressedTexture2D::2597346395508511654::1752354289::1752354291::1::::<><><>0<>0<>5830272b5b3be08e0104624cbf015dd0<>res://.godot/imported/atlas_1.png-1d2eab00d97c511e896145b11111d8e9.ctex::
+atlas_2.png::CompressedTexture2D::7800154644719493437::1752353994::1752354292::1::::<><><>0<>0<>7143664185255a9ec00d9e1b71327328<>res://.godot/imported/atlas_2.png-b9f65adc16e0abb41533347be32f0a9b.ctex::
 ::res://assets/ui/::1752206770
 ::res://audio/::1752206887
 ::res://audio/fx/::1752206887
 ::res://audio/musica/::1752206882
 ::res://data/::1752206906
-::res://escenas/::1752267160
-orco.tscn::PackedScene::7895673761764356342::1752267160::0::1::::<><><>0<>0<><>::uid://u36bd8eu22v5::::res://assets/sprites/enemigos/orco/Orc1/Orc1_attack/orc1_attack_full.png<>uid://bswqfypwebn6d::::res://scripts/enemigos/orco.gd<>uid://cfxycsjb7ul52::::res://assets/sprites/enemigos/orco/Orc1/Orc1_idle/orc1_idle_full.png<>uid://cxis2eafvbuwg::::res://assets/sprites/enemigos/orco/Orc1/Orc1_run/orc1_run_full.png
-player.tscn::PackedScene::583524874676479420::1752267160::0::1::::<><><>0<>0<><>::uid://bjqf1ciowniu3::::res://scripts/personajes/player.gd<>uid://bd0obqm26gwqs::::res://assets/sprites/personajes/personaje_chingo/Unarmed_Idle/Unarmed_Idle_full.png<>uid://cfrcdbrj4fn8f::::res://assets/sprites/personajes/personaje_chingo/Unarmed_Walk/Unarmed_Walk_full.png
+::res://escenas/::1752356442
+orco.tscn::PackedScene::7895673761764356342::1752356441::0::1::::<><><>0<>0<><>::uid://u36bd8eu22v5::::res://assets/sprites/enemigos/orco/Orc1/Orc1_attack/orc1_attack_full.png<>uid://bswqfypwebn6d::::res://scripts/enemigos/orco.gd<>uid://cfxycsjb7ul52::::res://assets/sprites/enemigos/orco/Orc1/Orc1_idle/orc1_idle_full.png<>uid://cxis2eafvbuwg::::res://assets/sprites/enemigos/orco/Orc1/Orc1_run/orc1_run_full.png
+player.tscn::PackedScene::583524874676479420::1752356442::0::1::::<><><>0<>0<><>::uid://bjqf1ciowniu3::::res://scripts/personajes/player.gd<>uid://bd0obqm26gwqs::::res://assets/sprites/personajes/personaje_chingo/Unarmed_Idle/Unarmed_Idle_full.png<>uid://cfrcdbrj4fn8f::::res://assets/sprites/personajes/personaje_chingo/Unarmed_Walk/Unarmed_Walk_full.png
 ::res://escenas/interfaz/::1752206816
-::res://escenas/mapas/::1752283867
-habitacion-inicio.tscn::PackedScene::2859317791602602728::1752283867::0::1::::<><><>0<>0<><>::
+::res://escenas/mapas/::1752358818
+habitacion-inicio.tscn::PackedScene::2859317791602602728::1752356442::0::1::::<><><>0<>0<><>::uid://lq4ub24aua0k::::res://assets/tilesets/exteriores/Pixel Lands Desert Demo/Pixel Lands Desert Demo/desert_demo_terrain.png<>uid://bfsiqixufhwk8::::res://assets/tilesets/exteriores/Pixel Lands Desert Demo/Pixel Lands Desert Demo/desert_demo_objects.png<>uid://dkqyuf3ou5dhm::::res://escenas/orco.tscn<>uid://ikwtmi7kqd5u::::res://escenas/player.tscn<>uid://bxs8qnrt6y2l4::::res://assets/tilesets/exteriores/Pixel Lands Forest Demo/Pixel Lands Forest Demo/forest_demo_terrain.png<>uid://cnkk7ig76tteg::::res://assets/tilesets/exteriores/Pixel Lands Forest Demo/Pixel Lands Forest Demo/forest_demo_objects.png
 ::res://scripts/::1752206862
-::res://scripts/enemigos/::1752266661
-orco.gd::GDScript::3696217865358236701::1752266661::0::1::::<>CharacterBody2D<><>0<>0<><>::
-::res://scripts/personajes/::1752217176
-player.gd::GDScript::3051500454176860396::1752217176::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://scripts/enemigos/::1752297115
+orco.gd::GDScript/GDScript::3696217865358236701::1752297115::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://scripts/personajes/::1752300318
+player.gd::GDScript/GDScript::3051500454176860396::1752300318::0::1::::<>CharacterBody2D<><>0<>0<><>::
 ::res://scripts/sistemas/::1752206855
 ::res://scripts/utils/::1752206862
